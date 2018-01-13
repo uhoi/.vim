@@ -1,0 +1,10 @@
+jedi-vim
+neobundle.vim
+pyflakes-vim
+syntastic
+vim-autoclose
+vim-flake8
+vim-indent-guides
+vim-javascript
+vim-node
+vim-quickrun
