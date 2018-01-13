@@ -1,4 +1,5 @@
 jedi-vim
+molokai
 neobundle.vim
 pyflakes-vim
 syntastic
